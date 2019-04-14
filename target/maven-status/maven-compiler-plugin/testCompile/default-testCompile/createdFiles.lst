@@ -1,0 +1,3 @@
+com/remotera/customer/repository/test/CustomerRepositoryTest.class
+com/remotera/customer/service/test/CustomerServiceTest.class
+com/remotera/customer/web/rest/test/CustomerResourceTest.class

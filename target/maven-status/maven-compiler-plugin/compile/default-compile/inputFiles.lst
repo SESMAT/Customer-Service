@@ -1,0 +1,11 @@
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/config/SimpleCORSFilter.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/domain/Country.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/domain/Customer.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/dto/CustomerDto.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/web/rest/CustomerManagmentController.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/CustomerApplication.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/config/MapperConfig.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/service/CustomerService.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/config/SwaggerConfig.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/repository/CustomerRepository.java
+/home/sherif/Task_WS/Customer-Service/src/main/java/com/remotera/customer/generator/IdGenerator.java

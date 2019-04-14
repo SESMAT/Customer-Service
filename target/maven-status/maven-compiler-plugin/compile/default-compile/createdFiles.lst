@@ -1,0 +1,11 @@
+com/remotera/customer/domain/Country.class
+com/remotera/customer/domain/Customer.class
+com/remotera/customer/dto/CustomerDto.class
+com/remotera/customer/CustomerApplication.class
+com/remotera/customer/service/CustomerService.class
+com/remotera/customer/config/SimpleCORSFilter.class
+com/remotera/customer/web/rest/CustomerManagmentController.class
+com/remotera/customer/config/SwaggerConfig.class
+com/remotera/customer/repository/CustomerRepository.class
+com/remotera/customer/generator/IdGenerator.class
+com/remotera/customer/config/MapperConfig.class

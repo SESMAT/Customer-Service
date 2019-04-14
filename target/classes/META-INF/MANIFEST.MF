@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Customer
+Implementation-Version: 1.0.0
+Built-By: sherif
+Implementation-Vendor-Id: com.remotera
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/customer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
